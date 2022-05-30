@@ -1,2 +1,2 @@
 # mx-container-repo
-hub for container images
+hub for container repositories, including gcr.io and quay.io, etc.
